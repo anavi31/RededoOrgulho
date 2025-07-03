@@ -6,6 +6,7 @@ npm install express body-parser bcrypt nodemailer csv-parser json2csv cors expre
 para rodar o servidor:
 node server.js
 
+para rodar no chrome: http://localhost:3000/
 
 estrutura dos arquivos:
 redeorgulho/
