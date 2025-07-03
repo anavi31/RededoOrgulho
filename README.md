@@ -1,1 +1,0 @@
--- projeto universitário software website para rede do grupo AMADO da Unijorge
